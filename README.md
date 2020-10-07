@@ -15,7 +15,9 @@ Practise Data Science Projects
 
 [Credit Risk Dashboard](https://public.tableau.com/profile/psald2415#!/vizhome/GermanCreditRisk_Dashboard/CreditRiskDashboard)
 
-[](/images/RiskvsDuration.jpg)
+[](/images/RiskvsCredit.png)
+
+[](/images/LogisticRegressionCostFunction.png)
 
 
 
