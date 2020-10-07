@@ -15,9 +15,9 @@ Data Science Projects
 
 [Credit Risk Dashboard](https://public.tableau.com/profile/psald2415#!/vizhome/GermanCreditRisk_Dashboard/CreditRiskDashboard)
 
-[1](Parul_Portfolio/images/RiskvsCredit.png)
+[](../images/RiskvsCredit.png)
 
-[](/images/LogisticRegressionCostFunction.png)
+[](../images/LogisticRegressionCostFunction.png)
 
 
 
@@ -39,7 +39,7 @@ demand/units _sold for 28 products(sku’s) across 76 stores, to predict/forecas
 
 •	Optimized xgboost  with CVgridSearch                  
 
-[](Parul_portfolio/images/dfcor.png)
+[](../images/dfcor.png)
 
 
 
