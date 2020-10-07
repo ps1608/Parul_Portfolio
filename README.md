@@ -22,10 +22,15 @@ demand/units _sold for 28 products(sku’s) across 76 stores, to predict/forecas
 12 weeks accurately. However, since we do not have Actual demand data for test set . the first 120.The data is captured at the beginning of each week
 
 •	This is a multiple time series , with other inputs like flags whether it’s a featured sku/on display sku ,base price an totalpriceetc besides starting Dateof week
+
 •	Did Exploratory analysis for couple of time series and they had seasonality effect
-•	Feature Engineered  to quantify Price ration (total price/base price) 
-•	Featured Engineered to extract month information from week 
+
+•	Feature Engineered  to quantify Price ration (total price/base price)
+
+•	Featured Engineered to extract month information from week
+
 •	Tried models like auto.arima with xreg & xgboost  xgbosst performed better.
+
 •	Optimized xgboost  with CVgridSearch                  
 
 
