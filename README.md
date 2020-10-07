@@ -12,7 +12,7 @@ Practise Data Science Projects
 •	Optimized Random Forest, Logistic Regression & Decision Tree using CV 
 
 •	Took the probability of default from Model , to build a Credit Risk Dashboard for computation of Key Business Metrics (i.e Expected Loss) and classified customers into Highly Risk,Risky & Less Risky categories.
-[RiskvsCreditamount](https://github.com/ps1608/Parul_Portfolio/blob/main/images/RiskvsDuration.jpg)
+[](https://github.com/ps1608/Parul_Portfolio/blob/main/images/RiskvsDuration.jpg)
 
 [Credit Risk Dashboard](https://public.tableau.com/profile/psald2415#!/vizhome/GermanCreditRisk_Dashboard/CreditRiskDashboard)
 
@@ -34,6 +34,7 @@ demand/units _sold for 28 products(sku’s) across 76 stores, to predict/forecas
 
 •	Optimized xgboost  with CVgridSearch                  
 
+[](https://github.com/ps1608/Parul_Portfolio/blob/main/images/dfcor.png)
 
 
 
