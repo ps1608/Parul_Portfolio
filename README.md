@@ -1,19 +1,27 @@
 # Parul_Portfolio
 Practise Data Science Projects
 
-[Project1:German Credit Risk Project](https://github.com/ps1608/ps_2019/edit/master/XlriExitProject_GermanCreditRisk)
-
-#This project aims to reduce the Expected Loss due to defaults by using a predictive classification Model,for Good and Bad Risk customers
-#The likelihood of default obtained from Classification Model,goes as Input to compute expected Loss and other important Business Metrics like
-#Probability of Default & Loss Given Default.
-#Further classifies the customers into High Risk,Moderate Risk,Less Risk customers,so that appropriate actions can be taken. As Date of Loan or Location is not available hence #Deinquency charts or Maps are not made.
-#[Credit Risk Dashboard](https://public.tableau.com/profile/psald2415#!/vizhome/GermanCreditRisk_Dashboard/CreditRiskDashboard)
-
+[Project1:German Credit Risk Project ](https://github.com/ps1608/ps_2019/edit/master/XlriExitProject_GermanCreditRisk)
+•	German Credit Risk data from Kaggle for XLRI exit project
+•	As per project requirement, analyzed financial inputs to calculate baseline misclassification Loss to come up with Business Justification Plan
+•	Feature Engineered data to create Flags for LowBalance Accounts and quantified EMI 
+•	Optimized Random Forest, Logistic Regression & Decision Tree using CV 
+•	Took the probability of default from Model , to build a Credit Risk Dashboard for computation of Key Business Metrics (i.e Expected Loss) and classified customers into Highly Risk,Risky & Less Risky categories.
+[Credit Risk Dashboard](https://public.tableau.com/profile/psald2415#!/vizhome/GermanCreditRisk_Dashboard/CreditRiskDashboard)
 
 [Project2:Demand Forecasting](https://github.com/ps1608/ps_2019/tree/master/DemandForecast)
 
-#The problem is of a retail chain which wants to use it is 3 years past data(130 weeks data)
-#demand/units_sold for 28 products(sku’s) across 76 stores, to predict/forecast the demand for next 
-#12 weeks accurately. However, since we do not have Actual demand data for test set . the first 120
-#Data will be used for all analysis and will be referred as training set  and last 10 weeks data will be
-#used for measuring the performance and will be referred as validation set.
+The problem is of a retail chain which wants to use it is 3 years past data(130 weeks data)
+demand/units _sold for 28 products(sku’s) across 76 stores, to predict/forecast the demand for next 
+12 weeks accurately. However, since we do not have Actual demand data for test set . the first 120.The data is captured at the beginning of each week
+
+•	This is a multiple time series , with other inputs like flags whether it’s a featured sku/on display sku ,base price an totalpriceetc besides starting Dateof week
+•	Did Exploratory analysis for couple of time series and they had seasonality effect
+•	Feature Engineered  to quantify Price ration (total price/base price) 
+•	Featured Engineered to extract month information from week 
+•	Tried models like auto.arima with xreg & xgboost  xgbosst performed better.
+•	Optimized xgboost  with CVgridSearch                  
+
+
+
+
