@@ -39,7 +39,7 @@ demand/units _sold for 28 products(sku’s) across 76 stores, to predict/forecas
 
 •	Optimized xgboost  with CVgridSearch                  
 
-[](/images/dfcor.png)
+[](Parul_portfolio/images/dfcor.png)
 
 
 
