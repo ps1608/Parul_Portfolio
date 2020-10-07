@@ -1,5 +1,5 @@
 # Parul_Portfolio
-Practise Data Science Projects
+Data Science Projects
 
 [Project1:German Credit Risk Project ](https://github.com/ps1608/ps_2019/edit/master/XlriExitProject_GermanCreditRisk)
 
