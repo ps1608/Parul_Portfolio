@@ -2,11 +2,17 @@
 Practise Data Science Projects
 
 [Project1:German Credit Risk Project ](https://github.com/ps1608/ps_2019/edit/master/XlriExitProject_GermanCreditRisk)
+
 •	German Credit Risk data from Kaggle for XLRI exit project
+
 •	As per project requirement, analyzed financial inputs to calculate baseline misclassification Loss to come up with Business Justification Plan
+
 •	Feature Engineered data to create Flags for LowBalance Accounts and quantified EMI 
+
 •	Optimized Random Forest, Logistic Regression & Decision Tree using CV 
+
 •	Took the probability of default from Model , to build a Credit Risk Dashboard for computation of Key Business Metrics (i.e Expected Loss) and classified customers into Highly Risk,Risky & Less Risky categories.
+
 [Credit Risk Dashboard](https://public.tableau.com/profile/psald2415#!/vizhome/GermanCreditRisk_Dashboard/CreditRiskDashboard)
 
 [Project2:Demand Forecasting](https://github.com/ps1608/ps_2019/tree/master/DemandForecast)
