@@ -15,9 +15,9 @@ Data Science Projects
 
 [Credit Risk Dashboard](https://public.tableau.com/profile/psald2415#!/vizhome/GermanCreditRisk_Dashboard/CreditRiskDashboard)
 
-[](https://github.com/ps1608/Parul_Portfolio/images/RiskvsCredit.png)
+[RiskvsCredit](https://github.com/ps1608/Parul_Portfolio/images/RiskvsCredit.png)
 
-[](https://github.com/ps1608/Parul_Portfolio/images/LogisticRegressionCostFunction.png)
+[CostFunction](https://github.com/ps1608/Parul_Portfolio/images/LogisticRegressionCostFunction.png)
 
 
 
@@ -40,6 +40,20 @@ demand/units _sold for 28 products(sku’s) across 76 stores, to predict/forecas
 •	Optimized xgboost  with CVgridSearch                  
 
 [](https://github.com/ps1608/Parul_Portfolio/images/dfcor.png)
+
+[Project 3: Fraud Detection Project](https://github.com/ps1608/ps_2019/tree/master/Fraud%20Detection)
+
+It is important that credit card companies are able to recognize fraudulent credit card transactions so that customers are not charged for items that they did not purchase.
+The datasets contains transactions made by credit cards in September 2013 by european cardholders.
+This dataset presents transactions that occurred in two days, where we have 492 frauds out of 284,807 transactions. The dataset is highly unbalanced, the positive class (frauds) account for 0.172% of all transactions.
+
+. Removed Outliers 
+. Given the Imbalance AUCPR is the identified Metric
+. Due to Confidentiality Issues, Features are Principal Components obtained with PCA
+. 'Melt' used to plot boxplot for different features ,for Outlier identification and Outliers removed
+. Tried weighted Logistic Regression / Cart . Though both models gave decent AUCPR ,with all featureds,
+. Used FeaturePlot & Backward Elimination to identify important features.
+. Finally CART selected as it easy to interpret and gives 0.70 AUCPR on train set and 0.69 AUCPR on test set
 
 
 
