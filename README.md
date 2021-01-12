@@ -39,7 +39,7 @@ demand/units _sold for 28 products(sku’s) across 76 stores, to predict/forecas
 
 •	Optimized xgboost  with CVgridSearch                  
 
-[](/images/dfcor.png)
+![](/images/dfcor.png)
 
 
 [Project 3: Fraud Detection Project](https://github.com/ps1608/ps_2019/tree/master/Fraud%20Detection)
