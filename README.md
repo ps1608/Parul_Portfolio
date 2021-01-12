@@ -15,9 +15,9 @@ Data Science Projects
 
 [Credit Risk Dashboard](https://public.tableau.com/profile/psald2415#!/vizhome/GermanCreditRisk_Dashboard/CreditRiskDashboard)
 
-[RiskvsCredit](https://github.com/ps1608/Parul_Portfolio/images/RiskvsCredit.png)
+[RiskvsCredit](https://github.com/ps1608/Parul_Portfolio/tree/main/images/RiskvsCredit.png)
 
-[CostFunction](https://github.com/ps1608/Parul_Portfolio/images/LogisticRegressionCostFunction.png)
+[CostFunction](https://github.com/ps1608/Parul_Portfolio/tree/main/images/LogisticRegressionCostFunction.png)
 
 
 
