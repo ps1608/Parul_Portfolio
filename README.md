@@ -47,12 +47,16 @@ It is important that credit card companies are able to recognize fraudulent cred
 The datasets contains transactions made by credit cards in September 2013 by european cardholders.
 This dataset presents transactions that occurred in two days, where we have 492 frauds out of 284,807 transactions. The dataset is highly unbalanced, the positive class (frauds) account for 0.172% of all transactions.
 
-. Removed Outliers 
 . Given the Imbalance AUCPR is the identified Metric
+
 . Due to Confidentiality Issues, Features are Principal Components obtained with PCA
+
 . 'Melt' used to plot boxplot for different features ,for Outlier identification and Outliers removed
-. Tried weighted Logistic Regression / Cart . Though both models gave decent AUCPR ,with all featureds,
+
+. Tried weighted Logistic Regression / Cart . Though both models gave decent AUCPR ,with all featureds
+
 . Used FeaturePlot & Backward Elimination to identify important features.
+
 . Finally CART selected as it easy to interpret and gives 0.70 AUCPR on train set and 0.69 AUCPR on test set
 
 
