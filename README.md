@@ -41,6 +41,7 @@ demand/units _sold for 28 products(sku’s) across 76 stores, to predict/forecas
 
 [](/images/dfcor.png)
 
+
 [Project 3: Fraud Detection Project](https://github.com/ps1608/ps_2019/tree/master/Fraud%20Detection)
 
 It is important that credit card companies are able to recognize fraudulent credit card transactions so that customers are not charged for items that they did not purchase.
